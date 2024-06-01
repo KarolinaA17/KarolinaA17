@@ -1,4 +1,5 @@
 **¡Hola! Soy Karolina Acosta 👋**
+
 ¡Bienvenido/a a mi perfil de GitHub!
 
 Soy una Desarrolladora Web Full Stack certificada, con un trasfondo técnico en diseño gráfico. Mi enfoque principal está en el desarrollo Frontend, donde combino creatividad y técnica para crear experiencias web cautivadoras. Tengo experiencia y conocimientos en el desarrollo y diseño de proyectos web, utilizando tecnologías como HTML, CSS, JavaScript, React y PHP, así como herramientas como Node.js y MongoDB para el Backend.

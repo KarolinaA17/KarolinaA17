@@ -4,7 +4,7 @@
 
 Soy una Desarrolladora Web Full Stack certificada, con un trasfondo técnico en diseño gráfico. Mi enfoque principal está en el desarrollo Frontend, donde combino creatividad y técnica para crear experiencias web cautivadoras. Tengo experiencia y conocimientos en el desarrollo y diseño de proyectos web, utilizando tecnologías como HTML, CSS, JavaScript, React y PHP, así como herramientas como Node.js y MongoDB para el Backend.
 
-💻 ****Enfoque****
+💻 **Enfoque**
 
 Mi principal área de especialización es el desarrollo Frontend. Disfruto creando interfaces de usuario atractivas y funcionales que proporcionen una experiencia excepcional al usuario final. Mi enfoque en el diseño gráfico me permite combinar habilidades técnicas con una estética visualmente agradable.
 
